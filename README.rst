@@ -2,6 +2,7 @@ Sample Module Repository
 ========================
 
 This simple project is an example repo for Python projects.
+https://docs.python-guide.org/writing/structure/
 
 `Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
 
